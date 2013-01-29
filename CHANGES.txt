@@ -1,0 +1,12 @@
+CHANGES
+========
+
+
+0.0.0
+------
+
+* Initial release 
+* AGPL license in LICENSE.txt
+* 3 data manipulation functions added
+* README, MANIFEST, INSTALL, LICENSE, setup.py (for pypi)
+

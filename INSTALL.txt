@@ -1,0 +1,21 @@
+Installing DUL
+===============
+
+See https://github.com/hobsonlane/dul for more information.
+
+.. Contents::
+
+INTRODUCTION
+=============
+
+This python module is in alpha testing.  Install at your own risk.
+
+PREREQUISITES AND INSTALLATION
+===============================
+
+DUL requires python > 2.6, that's it.  Pip just makes installation easier.
+
+To install Fence using pip on an Ubuntu-like system::
+
+    apt-get install pip
+    pip install dul
